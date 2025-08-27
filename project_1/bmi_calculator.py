@@ -1,4 +1,5 @@
                         # " BMI_Calculator"
+print("welcome to BMI Calculator")
 # BMI Calculator Program
 
 # User ko welcome message dikhate hain
@@ -22,3 +23,18 @@ elif bmi < 29.9:
     print("Aapka BMI {:.2f} hai - Category: Overweight")
 else:
     print("Aapka BMI {:.2f} hai - Category: Obese")
+
+'''Ye ek formatting syntax hai jo Python print() statement mein use hoti hai:
+- {} → yahan pe value insert hoti hai.
+- :.2f → iska matlab hai:
+- : → formatting start ho rahi hai.
+- .2f → floating point number ko 2 decimal places tak dikhana hai.
+👉 Example:
+bmi = 22.4567
+print("Aapka BMI {:.2f} hai".format(bmi))
+
+
+Output:
+Aapka BMI 22.46 hai
+
+'''

@@ -1,3 +1,5 @@
+
+
 import random       # Random characters generate karne ke liye
 import string       # Letters, digits, symbols ke sets ke liye
 
@@ -34,5 +36,3 @@ password = ''.join(random.choice(char_pool) for _ in range(length))
 
 # 🔹 Step 7: Final password print karna
 print("Generated Password:", password)
-
-
