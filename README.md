@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OIBSIP - Oasis Infobyte Internship Projects
 
 This repository contains my projects completed as part of the Oasis Infobyte Internship (Python/Development).
@@ -61,3 +62,7 @@ like: - bmi_calculator.py for Task-1
 ---
 
 *Thank you for visiting my repo!*
+=======
+# OIBSIP
+Oasis Infobyte Internship Projects
+>>>
